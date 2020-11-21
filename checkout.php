@@ -141,4 +141,4 @@ if (!isset($_SESSION["pelanggan"])) {
 </div>
 <br>
 <br>
-<p class="mt-5 mb-3 text-muted text-center">&copy; Toko Umar 2019</p>
+<p class="mt-5 mb-3 text-muted text-center">&copy; Toko Umar 2020</p>
