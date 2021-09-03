@@ -5,7 +5,7 @@ include 'header.php';
 
 <!-- Koneten-->
 <div class="container">
-    <h1>Barang Terbaru</h1>
+    <h1>Barang Terbaru dan percobaan commit</h1>
     <br>
     <div class="row">
         <?php $ambil = $koneksi->query("SELECT*FROM barang"); ?>
